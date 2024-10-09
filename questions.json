@@ -1,0 +1,242 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which of these is an interjection?",
+    "options": [
+      "Running",
+      "Quickly",
+      "Wow",
+      "Happily"
+    ],
+    "correct": 2,
+    "explanation": "'Wow!' is an interjection because it's a short word used to express strong feeling or sudden emotion. It can stand alone and is often followed by an exclamation mark."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "In the sentence 'Ouch! I stubbed my toe,' what is the interjection?",
+    "options": [
+      "I",
+      "Ouch",
+      "stubbed",
+      "toe"
+    ],
+    "correct": 1,
+    "explanation": "'Ouch' is the interjection in this sentence. It expresses sudden pain and is followed by an exclamation mark, which is common for interjections."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which sentence uses an interjection correctly?",
+    "options": [
+      "The dog barked loudly.",
+      "Hey! Where are you going?",
+      "She quickly ran to the store.",
+      "The blue car is parked outside."
+    ],
+    "correct": 1,
+    "explanation": "This sentence uses the interjection 'Hey!' correctly. It's at the beginning of the sentence, followed by an exclamation mark, and expresses a sudden call for attention."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "What feeling does the interjection 'Alas!' usually express?",
+    "options": [
+      "Happiness",
+      "Excitement",
+      "Anger",
+      "Sadness or regret"
+    ],
+    "correct": 3,
+    "explanation": "'Alas!' is an interjection that typically expresses sadness, grief, or regret. It's often used when something unfortunate has happened."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which interjection would you use to show surprise?",
+    "options": [
+      "Well",
+      "Oh!",
+      "Ahem",
+      "Phew"
+    ],
+    "correct": 1,
+    "explanation": "'Oh!' is commonly used to express surprise. It's a versatile interjection that can show sudden realization or unexpected discovery."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "'________! I forgot my lunch at home,' said Tom sadly.",
+    "options": [
+      "Yippee",
+      "Wow",
+      "Alas",
+      "Hurray"
+    ],
+    "correct": 2,
+    "explanation": "'Alas' is used to express sadness or regret. It fits well here because Tom is sad about forgetting his lunch."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "'________! That hot pizza burned my tongue,' exclaimed Sarah.",
+    "options": [
+      "Ouch",
+      "Wow",
+      "Yay",
+      "Well"
+    ],
+    "correct": 0,
+    "explanation": "'Ouch' is an interjection used to express sudden pain. It's perfect for this situation where Sarah burned her tongue."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "'________! We won the game!' cheered the team.",
+    "options": [
+      "Alas",
+      "Uh",
+      "Ouch",
+      "Hurray"
+    ],
+    "correct": 3,
+    "explanation": "'Hurray' is an interjection that expresses joy or celebration. It's great for showing the team's happiness about winning the game."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "'________! I didn't expect to see you here,' said Mom in surprise.",
+    "options": [
+      "Uh",
+      "Phew",
+      "Yippee",
+      "Oh"
+    ],
+    "correct": 3,
+    "explanation": "'Oh' can be used to show surprise. In this sentence, it expresses Mom's unexpected encounter."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "'________! Look at that beautiful rainbow,' gasped Emma.",
+    "options": [
+      "Ouch",
+      "Wow",
+      "Oh",
+      "Well"
+    ],
+    "correct": 1,
+    "explanation": "'Wow' is an interjection that shows amazement or strong impression. It's perfect for expressing Emma's awe at seeing the rainbow."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which is not an interjection?",
+    "options": [
+      "Ah",
+      "Oh",
+      "The",
+      "Yippee"
+    ],
+    "correct": 2,
+    "explanation": "'The' is not an interjection. It's an article used before nouns. All the other options (Ah, Oh, Yippee) are interjections expressing various emotions or sounds."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which sentence uses 'Oh dear' correctly?",
+    "options": [
+      "Oh dear is my favorite color.",
+      "Oh dear! I forgot my homework.",
+      "The oh dear cat sat on the mat.",
+      "She oh deared to the store."
+    ],
+    "correct": 1,
+    "explanation": "This sentence uses 'Oh dear!' correctly as an interjection. It expresses worry or mild distress about forgetting homework."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "What does the interjection 'Phew!' usually mean?",
+    "options": [
+      "Relief",
+      "Excitement",
+      "Anger",
+      "Confusion"
+    ],
+    "correct": 0,
+    "explanation": "'Phew!' is an interjection that typically expresses relief. It's often used after escaping a difficult situation or finishing a challenging task."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "In 'Well, I guess we should start,' what does 'Well' express?",
+    "options": [
+      "Happiness",
+      "Excitement",
+      "A pause before speaking",
+      "Anger"
+    ],
+    "correct": 2,
+    "explanation": "In this context, 'Well' is used as an interjection to indicate a pause before speaking or to start a sentence."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which interjection would you use if you're in pain?",
+    "options": [
+      "Wow",
+      "Hurray",
+      "Yippee",
+      "Ouch"
+    ],
+    "correct": 3,
+    "explanation": "'Ouch' is an interjection commonly used to express pain or discomfort."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Elegant",
+      "Eligant",
+      "Elegent",
+      "Alegant"
+    ],
+    "correct": 0,
+    "explanation": "'E-L-E-G-A-N-T' is the correct spelling, which means something that is graceful and stylish."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "What type of word is an interjection?",
+    "options": [
+      "Noun",
+      "Verb",
+      "Adjective",
+      "A word that expresses strong feeling"
+    ],
+    "correct": 3,
+    "explanation": "An interjection is a word or phrase used to express strong feeling or sudden emotion."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which sentence uses 'Yippee' correctly?",
+    "options": [
+      "The yippee dog barked loudly.",
+      "She yippeed down the street.",
+      "Yippee! We're going to the amusement park!",
+      "The yippee cake was delicious."
+    ],
+    "correct": 2,
+    "explanation": "This sentence uses 'Yippee!' correctly as an interjection. It expresses joy and excitement about going to the amusement park."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Obedient",
+      "Obidient",
+      "Obedeint",
+      "Obeedient"
+    ],
+    "correct": 0,
+    "explanation": "'O-B-E-D-I-E-N-T' is the correct spelling, which means someone who follows rules or instructions."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "What does the interjection 'Ahem' usually mean?",
+    "options": [
+      "To get someone's attention",
+      "To express surprise",
+      "To show anger",
+      "To celebrate"
+    ],
+    "correct": 0,
+    "explanation": "'Ahem' is an interjection that mimics the sound of clearing one's throat. It's often used to politely get someone's attention."
+  }
+]
